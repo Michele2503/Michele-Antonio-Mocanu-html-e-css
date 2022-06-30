@@ -1,0 +1,49 @@
+
+ 
+.head-banner {
+   
+    background-color: black;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url(immagini/th-6.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+    
+    
+
+}
+.sezione-skill {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    
+    
+   
+}
+    
+
+@media screen and (min-width:768px) 
+{
+    head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+        
+    }
+    
+}
+.testo1{
+    color: rgb(0, 0, 0);
+}
+.testo2 {
+    text-align: center ;
+}
+.testo3 {
+    
+    text-align: left;
+    font-style: italic;
+    font-size: large;
+}
+
+
